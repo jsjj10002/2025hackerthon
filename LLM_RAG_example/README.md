@@ -1,0 +1,1 @@
+** 네이버 clova studio와 langchain 활용하여 LLM과 RAG(Retrieval-Augmented Generation), 챗봇에 대한 간단한 예제 입니다. **
